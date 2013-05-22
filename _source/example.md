@@ -4,7 +4,7 @@ title: Example Page
 ---
 
 Heading 2
----
+---------
 
 ### Heading 3
 
