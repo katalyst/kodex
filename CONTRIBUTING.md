@@ -1,5 +1,5 @@
-Contributing the Katalyst Codex
-===============================
+Contributing to Kodex
+=====================
 
 1. Make a new branch or fork the repo.
 
