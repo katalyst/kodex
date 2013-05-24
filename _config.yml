@@ -1,5 +1,9 @@
+exclude:
+  - CONTRIBUTING.md
+  - Gemfile
+  - Gemfile.lock
+  - README.md
 lsi: false
 markdown: redcarpet
 pygments: true
 safe: true
-source: _source
