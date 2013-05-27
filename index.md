@@ -8,7 +8,7 @@ This website documents Katalyst's coding conventions. All developers at Katalyst
 HTML
 ----
 
-- [Example Page](example.html)
+- [Indentation](html-indentation.html)
 
 Ruby
 ----
